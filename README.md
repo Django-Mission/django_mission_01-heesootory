@@ -1,6 +1,8 @@
 # django_mission_01-heesootory
 django_mission_01-heesootory created by GitHub Classroom
 
+### * 127.0.0.1:8000/ -> 뒤에 꼭 url 파일에 설정한 url적기!!!! (자꾸 깜빡함..)
+
 ## 1. basic_mission
 
 - 기본값은 모두 0으로 초기화.
